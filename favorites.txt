@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 PeppermintIce Cream
 Soft Pretzels
+=======
+Amadeus
+The Fifth Element
+Captain Fantastic
+>>>>>>> movies
